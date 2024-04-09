@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shubham
 - 👀 I’m interested in FRONT END TECHNOLOGY
-- 🌱 I’m currently learning HTML,CSS,JAVASCRIPT.
+- 🌱 I’m learn HTML,CSS,JAVASCRIPT.
 - 📫 YOU CAN REACH ME BY LINKEDIN .https://www.linkedin.com/in/shubham-patel-6978a4277/..
 - 😄 Pronouns: .DEVELOPER..
 
